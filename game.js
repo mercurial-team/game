@@ -1,5 +1,5 @@
 $(document).ready(function () {
-//Мини Игра
+//Мини Игра//
 var hero = {
 	Name: 'Заключенный',
 	level: 1,
